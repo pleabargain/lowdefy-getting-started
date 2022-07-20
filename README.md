@@ -25,7 +25,7 @@ Create a new Baserow Table with the following Fields
 
 
 ## Click here:
-<img width="407" alt="image" src="https://user-images.githubusercontent.com/640846/179927496-dd989dab-3975-42ae-b45e-a0f844e1ea67.png">
+<img width="767" alt="image" src="https://user-images.githubusercontent.com/640846/179928896-abed0791-a231-4b3d-9928-4ff8f1543fe2.png">
 
 ## Choose your database:
 
